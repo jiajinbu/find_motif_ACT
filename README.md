@@ -10,6 +10,7 @@ python motif_finder.py genome.fa [0|1] output_file_pre
 # Example
  
 python motif_finder.py tair10_chr_all.fas 0 motif_ACTN4ACT
+
 python motif_finder.py tair10_chr_all.fas 1 motif_ACTN6ACT
 
 If output_file_pre was not given, it will be set as "motif_finder".
